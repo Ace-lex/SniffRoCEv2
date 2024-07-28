@@ -1,6 +1,6 @@
-# sniffRoCEv2
+# SniffRoCEv2
 
-sniffRoCEv2是一个基于Python的scapy库，专为RoCEv2设计的流量分析工具。
+SniffRoCEv2是一个基于Python的scapy库，专为RoCEv2设计的流量分析工具。
 
 使用方法如下：
 
